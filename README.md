@@ -1,0 +1,1 @@
+# npm-emoji-flags
